@@ -6,21 +6,21 @@
   </picture>
 </p>
 <h2 align="center">
-  A Roblox script built from the ground up for your precise needs!
+  A Roblox script that was ditched and now i fix.
   <br/>
-  Rise up to the top while remaining completely untouchable.
+  This is a fix from the old vape.
 </h2>
 
 ## Contacts
-[Discord](https://discord.gg/ZqS836yx9k)
+[Discord](https://dsc.gg/getmoonexec) -- moon discord
 <br/>
-[Youtube](https://youtube.com/c/7GrandDadVape)
+[Youtube](https://youtube.com/c/7GrandDadVape) -- vape youtube
 
 ## Usage
 1. Download the specific scripting utility of your choice.
 2. Execute the provided loadstring below.
 ```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pasteisback/raming/main/NewMainScript.lua", true))()
 ```
 
 ## Possible Issues
@@ -31,11 +31,13 @@ Half of the time its usually the scripting utility at fault, please make sure th
 ### User Issues
 If its not the supposed utility at fault, please try some troubleshooting steps.
 1. Deleting the newvape folder (WITH THE GAME CLOSED).
-2. Making sure you have connection to [the main loadstring.](https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/refs/heads/main/NewMainScript.lua)
+2. Making sure you have connection to [the main loadstring.](https://raw.githubusercontent.com/pasteisback/raming/refs/heads/main/NewMainScript.lua)
 3. Ensuring no external script is conflicting with vape.
 
 ## Developers & Credits
 [7GrandDad](https://github.com/7GrandDadPGN) - Lead maintainer of the project - vaperoblox on Discord
+<br/>
+[SprayingCactus](https://dsc.gg/getmoonexec) - Fixed vape - RamingCactus on Discord
 <br/>
 [rce-incorporated](https://github.com/rce-incorporated/Fiu) - Luau bytecode disassembly with modifications
 <br/>
